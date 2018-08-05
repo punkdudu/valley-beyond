@@ -3,11 +3,12 @@
 ### 0. 基本口号
 - 去北极，吃米粉，开uber
 
-### 1. 历届知乎小号
+### 1. 知乎上相关话题
 
-#### 1.1 还存在的知乎小号
+#### 1.1 知乎相关话题
 
-- 暂无
+- [曾博](https://www.zhihu.com/topic/20028515/hot)
+- [勃学](https://www.zhihu.com/topic/20077770/hot)
 
 #### 1.2 已被禁言的知乎小号
 
@@ -19,18 +20,13 @@
 
 #### 1.3 已经被删除的知乎小号
 
-- [勃失败](https://www.zhihu.com/people/tanchaobo2) 专栏文章：[几个解释](https://zhuanlan.zhihu.com/p/25033393)
+- [勃失败](https://www.zhihu.com/people/tanchaobo2) 
 - [曾博](https://www.zhihu.com/people/bboczeng)
 - [大勃勃](https://www.zhihu.com/people/bboczengshibai)
 
 #### 1.4 不活跃的知乎小号
 
 - [夜勃](https://www.zhihu.com/people/ye-bo-zs)
-
-#### 1.4 知乎话题
-
-- [曾博](https://www.zhihu.com/topic/20028515/hot)
-- [勃学](https://www.zhihu.com/topic/20077770/hot)
 
 #### 1.5 知乎相关人物
 
@@ -44,12 +40,12 @@
 - [雷斯基](https://www.zhihu.com/people/Thor2017)
 - [MartinLoserKing](https://www.zhihu.com/people/martin_loser_king)
 
-### 2. 知乎专栏
+#### 1.6 知乎相关专栏和文章
 
 - [勃学周刊](https://zhuanlan.zhihu.com/nullptr) 
+- [几个解释](https://zhuanlan.zhihu.com/p/25033393)
 
-
-### 3. 基本思想摘要
+### 2. 基本思想摘要
 
 > 勃学是哲学的一个分支，具体地说，勃学是一门武装失败人士头脑的精神工具。失败人士是社会的重要组成成分（占99.99%以上），也是成功人士除了互相倾轧以外，主要的收入来源……勃学是失败人士行动和思考的纲领性文件。勃学的第一部分就是“失败学”，与社会盛行的“成功学”形成鲜明对照。“失败学”不是教你如何失败，而是一个关于人成为失败人士后，该如何思考、生存、解脱的学说。
 
@@ -83,6 +79,6 @@
 ––– [上海交大的学生如何看待西安交通大学这一学校？––曾博的回答](https://www.zhihu.com/question/37052352/answer/70188333)
 
 
-### 4. 其他资源
+### 3. 其他资源
 
 * [曾博知乎回答档案馆](https://github.com/1e0ndavid/bozeng-zhihu)
