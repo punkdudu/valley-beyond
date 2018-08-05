@@ -77,3 +77,7 @@
 
 ––– [上海交大的学生如何看待西安交通大学这一学校？––曾博的回答](https://www.zhihu.com/question/37052352/answer/70188333)
 
+
+### 3. 其他资源
+
+* [曾博知乎回答档案馆](https://github.com/1e0ndavid/bozeng-zhihu)
