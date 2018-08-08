@@ -10,25 +10,31 @@
 - [曾博](https://www.zhihu.com/topic/20028515/hot)
 - [勃学](https://www.zhihu.com/topic/20077770/hot)
 
-#### 1.2 已被禁言的知乎小号
+#### 1.2 2018年8月8日尚活跃的知乎小号
+
+- [勃欣然](https://www.zhihu.com/people/bei-li-kou-58)
+
+
+#### 1.3 已被禁言的知乎小号
 
 - [勃拉蕊丝](https://www.zhihu.com/people/bei-ji-xiong-43-25)
 - [勃加蕊](https://www.zhihu.com/people/xiao-xiao-ye-bo)
-- [小勃勃](https://www.zhihu.com/people/bboczeng2)
 - [小夜勃](https://www.zhihu.com/people/xiao-ye-bo-78)
 - [勃力口minus](https://www.zhihu.com/people/bo-xing-qiu)
 
-#### 1.3 已经被删除的知乎小号
+#### 1.4 已经被停用的知乎小号
 
 - [勃失败](https://www.zhihu.com/people/tanchaobo2) 
 - [曾博](https://www.zhihu.com/people/bboczeng)
 - [大勃勃](https://www.zhihu.com/people/bboczengshibai)
+- [小勃勃](https://www.zhihu.com/people/bboczeng2)
+- [硅谷老实人](https://www.zhihu.com/people/huo-gu-lao-shi-ren)
 
-#### 1.4 不活跃的知乎小号
+#### 1.5 不活跃的知乎小号
 
 - [夜勃](https://www.zhihu.com/people/ye-bo-zs)
 
-#### 1.5 知乎相关人物
+#### 1.6 知乎相关人物
 
 - [立党](https://www.zhihu.com/people/lidang)
 - [江踏歌](https://www.zhihu.com/people/jianghanchen)
@@ -40,7 +46,7 @@
 - [雷斯基](https://www.zhihu.com/people/Thor2017)
 - [MartinLoserKing](https://www.zhihu.com/people/martin_loser_king)
 
-#### 1.6 知乎相关专栏和文章
+#### 1.7 知乎相关专栏和文章
 
 - [勃学周刊](https://zhuanlan.zhihu.com/nullptr) 
 - [几个解释](https://zhuanlan.zhihu.com/p/25033393)
