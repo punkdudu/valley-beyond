@@ -10,13 +10,14 @@
 - [曾博](https://www.zhihu.com/topic/20028515/hot)
 - [勃学](https://www.zhihu.com/topic/20077770/hot)
 
-#### 1.2 2018年8月8日尚活跃的知乎小号
+#### 1.2 2019年5月26日尚活跃的知乎小号
 
-- [勃欣然](https://www.zhihu.com/people/bei-li-kou-58)
+- [勃北极](https://www.zhihu.com/people/fu-zhi-bo-95)
 
 
 #### 1.3 已被禁言的知乎小号
 
+- [勃欣然](https://www.zhihu.com/people/bei-li-kou-58)
 - [勃拉蕊丝](https://www.zhihu.com/people/bei-ji-xiong-43-25)
 - [勃加蕊](https://www.zhihu.com/people/xiao-xiao-ye-bo)
 - [小夜勃](https://www.zhihu.com/people/xiao-ye-bo-78)
